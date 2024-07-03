@@ -1,0 +1,7 @@
+MyPredator: mean      63.200000 std       35.782383
+
+MyPredatorWithCommunication:
+max_dist=3  mean      41.200000 std       28.305848
+max_dist=4  mean      42.000000 std       23.487959
+max_dist=5  mean      39.050000 std       19.381149
+max_dist=6  mean      46.000000 std       24.563559
